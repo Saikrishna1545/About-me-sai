@@ -16,7 +16,15 @@
    * Visual Studio
    *  Use  [Markdown](https://guides.github.com/features/mastering-markdown/) language to edit your repository
 
+  ## Recommended Resourses
+  * [javascript](https://www.w3schools.com/js/)
+  * [hmtl](https://www.w3schools.com/html/)
+  * [Bootstrap](https://www.w3schools.com/bootstrap/)
+  * [CSS][https://www.w3schools.com/css/]
 
+  
+
+     
 
    
 
