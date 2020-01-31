@@ -10,7 +10,16 @@
    This  reposiporty is about using how git commands works on cloud and local PC.
 
  ## Recommended Tools
-   1.Login in to your [Login](https://github.com/login) account.
-   2.
+
+   * Login into your [Login](https://github.com/login) account.
+   * [Tortoise](https://tortoisegit.org/) For pushing and pulling code into local Pc
+   * Visual Studio
+   *  Use  [Markdown](https://guides.github.com/features/mastering-markdown/) language to edit your repository
+
+
+
+   
+
+
 
  
