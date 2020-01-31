@@ -17,10 +17,10 @@
    *  Use  [Markdown](https://guides.github.com/features/mastering-markdown/) language to edit your repository
 
   ## Recommended Resourses
-  * [javascript](https://www.w3schools.com/js/)
-  * [hmtl](https://www.w3schools.com/html/)
-  * [Bootstrap](https://www.w3schools.com/bootstrap/)
-  * [CSS][https://www.w3schools.com/css/]
+  1. [javascript](https://www.w3schools.com/js/)
+  2. [hmtl](https://www.w3schools.com/html/)
+  3. [Bootstrap](https://www.w3schools.com/bootstrap/)
+  4. [CSS](https://www.w3schools.com/css/)
 
   ## Contributors
   
